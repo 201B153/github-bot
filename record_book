@@ -7,3 +7,4 @@ Id CommandLine
    5 npm i simple-git
    6 node index.js
    7 git log
+   8 npm i random
