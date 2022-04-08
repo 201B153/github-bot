@@ -1,0 +1,9 @@
+Id CommandLine
+  -- -----------
+   1 npm init
+   2 npm i jsonfile
+   3 npm i  moment
+   4 node index.js
+   5 npm i simple-git
+   6 node index.js
+   7 git log
