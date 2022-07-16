@@ -23,7 +23,7 @@ const FILE_PATH = "./data.json";
 
 // makeCommit(1);
 
-const DATE = moment ().subtract(1, "d").add(1, "d").format();
+const DATE = moment ().subtract(2, "d").add(0, "d").format();
 const data = {
   data: DATE
 }
